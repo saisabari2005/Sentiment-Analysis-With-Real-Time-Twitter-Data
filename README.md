@@ -75,10 +75,6 @@ It fetches live tweets based on a given keyword/hashtag, processes the text, and
 | Neutral    | 65    |
 | Negative   | 42    |
 
-Example visualization:  
-
-*(Insert a screenshot of your sentiment pie chart or bar graph here)*
-
 ---
 
 ## 🔮 Future Improvements
@@ -102,4 +98,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 - **Sai Sabarinath K** – B.Tech AI & Data Science  
-  [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/your-username)
